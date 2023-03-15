@@ -1,3 +1,34 @@
-{
-    body 
+*{
+    box-sizing: border-box;
+}
+
+.rowHomero{ 
+background-color: green;
+
+}
+
+body{}
+
+.h3{
+    text-align: center;
+    
+}
+
+.maarge{
+    background-color: blue;
+    font-size: ;
+}
+
+.textomarge{
+
+    font-size: 200px;
+}
+.Maggie{
+
+    background-color: darkblue;
+}
+
+.Lisa{
+
+    background-color: darkred;
 }
